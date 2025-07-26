@@ -2,7 +2,7 @@ import "./globals.css";
 import Navbar from "./components/Navbar";
 
 export const metadata = {
-  title: "zF4ke | Portfolio",
+  title: "Nicz| Portfolio",
   description: "Meu portfólio pessoal feito com Next.js + Tailwind",
 };
 
