@@ -1,0 +1,13 @@
+.
+├── app/
+│   ├── components/
+│   ├── layout.tsx
+│   └── page.tsx
+├── public/
+│   └── assets/
+├── styles/
+│   └── globals.css
+├── tailwind.config.ts
+├── tsconfig.json
+├── package.json
+└── next.config.js
