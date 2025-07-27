@@ -1,9 +1,0 @@
-/public
-  /assets
-    avatar.jpg
-    bg.jpg
-    github.svg
-    linkedin.svg
-    project1.png
-    project2.png
-    project3.png
